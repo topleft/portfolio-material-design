@@ -230,10 +230,6 @@ input, textarea {
     border-bottom: 1px solid #fff;
 }
 
-nav a.button-collapse {
-    left: -25px;
-}
-
 .card-avatar .waves-effect {
     text-align: center;
     margin-top: 20px;
