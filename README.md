@@ -1,6 +1,6 @@
 ## Pete Jeffryes Portfolio Page
 
-Check it out live, www.petej.org.
+Check it out live, [topleft.dev](topleft.dev).
 
 This HTML page is based on [Materialize](http://materializecss.com/), a CSS Framework based on Material Design.
 
@@ -12,7 +12,3 @@ HTML, CSS, JS
 ### Resources
 - [Materialize](http://materializecss.com/)
 - [Material Design Colors](http://www.materialpalette.com/)
-
-## Build
-
-
