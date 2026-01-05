@@ -1,6 +1,6 @@
 ## Pete Jeffryes Portfolio Page
 
-Check it out live, [topleft.dev](topleft.dev).
+Check it out live, [topleft.dev](https://www.topleft.dev).
 
 This HTML page is based on [Materialize](http://materializecss.com/), a CSS Framework based on Material Design.
 
